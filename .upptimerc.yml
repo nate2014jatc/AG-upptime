@@ -10,7 +10,7 @@ sites:
   - name: Cloud
     url: https://cloud.astragroup.info
   - name: Internal Use
-    url: hhttps://priv.astragroup.info
+    url: https://priv.astragroup.info
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
