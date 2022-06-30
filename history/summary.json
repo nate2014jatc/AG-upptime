@@ -58,17 +58,17 @@
     "url": "https://priv.astragroup.info",
     "icon": "https://favicons.githubusercontent.com/priv.astragroup.info",
     "slug": "internal-use",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6520,
-    "timeDay": 6520,
-    "timeWeek": 6520,
-    "timeMonth": 6520,
-    "timeYear": 6520,
+    "time": 4435,
+    "timeDay": 4435,
+    "timeWeek": 4435,
+    "timeMonth": 4435,
+    "timeYear": 4435,
     "dailyMinutesDown": {}
   }
 ]
