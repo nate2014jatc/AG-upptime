@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 603,
-    "timeWeek": 603,
-    "timeMonth": 603,
-    "timeYear": 603,
+    "time": 596,
+    "timeDay": 596,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/status.astragroup.info",
     "slug": "status",
     "status": "up",
-    "uptime": "11.57%",
-    "uptimeDay": "11.57%",
-    "uptimeWeek": "11.57%",
-    "uptimeMonth": "11.57%",
-    "uptimeYear": "11.57%",
-    "time": 180,
-    "timeDay": 180,
-    "timeWeek": 180,
-    "timeMonth": 180,
-    "timeYear": 180,
-    "dailyMinutesDown": {
-      "2022-06-30": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 224,
+    "timeDay": 224,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1416,
-    "timeDay": 1416,
-    "timeWeek": 1416,
-    "timeMonth": 1416,
-    "timeYear": 1416,
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/priv.astragroup.info",
     "slug": "internal-use",
     "status": "down",
-    "uptime": "10.46%",
-    "uptimeDay": "10.46%",
-    "uptimeWeek": "10.46%",
-    "uptimeMonth": "10.46%",
-    "uptimeYear": "10.46%",
-    "time": 6595,
-    "timeDay": 6595,
-    "timeWeek": 6595,
-    "timeMonth": 6595,
-    "timeYear": 6595,
-    "dailyMinutesDown": {
-      "2022-06-30": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 6520,
+    "timeDay": 6520,
+    "timeWeek": 6520,
+    "timeMonth": 6520,
+    "timeYear": 6520,
+    "dailyMinutesDown": {}
   }
 ]
