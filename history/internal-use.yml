@@ -1,7 +1,7 @@
 url: https://priv.astragroup.info
-status: up
-code: 200
-responseTime: 398
-lastUpdated: 2022-10-17T23:14:51.485Z
+status: down
+code: 502
+responseTime: 21706
+lastUpdated: 2022-10-18T08:30:09.898Z
 startTime: Thu Jun 30 2022 19:18:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
