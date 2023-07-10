@@ -1,7 +1,7 @@
 url: https://cloud.astragroup.info
-status: up
-code: 200
-responseTime: 715
-lastUpdated: 2023-07-09T23:35:23.950Z
+status: down
+code: 500
+responseTime: 17582
+lastUpdated: 2023-07-10T20:14:15.617Z
 startTime: Thu Jun 30 2022 19:18:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
