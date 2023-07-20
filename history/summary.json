@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 510,
-    "timeDay": 573,
-    "timeWeek": 461,
-    "timeMonth": 435,
+    "timeDay": 497,
+    "timeWeek": 470,
+    "timeMonth": 431,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2023-06-09": 23,
@@ -22,8 +22,7 @@
       "2022-08-08": 30,
       "2022-07-24": 45,
       "2022-07-23": 76,
-      "2022-07-22": 140,
-      "2022-07-20": 118
+      "2022-07-22": 140
     }
   },
   {
@@ -32,17 +31,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.astragroup.info.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "96.47%",
-    "uptimeDay": "100.00%",
+    "uptime": "96.48%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "91.51%",
     "uptimeYear": "96.50%",
-    "time": 211,
-    "timeDay": 175,
-    "timeWeek": 184,
-    "timeMonth": 201,
+    "time": 212,
+    "timeDay": 328,
+    "timeWeek": 221,
+    "timeMonth": 206,
     "timeYear": 212,
     "dailyMinutesDown": {
+      "2023-07-20": 0,
       "2023-07-16": 93,
       "2023-07-11": 68,
       "2023-07-10": 44,
@@ -78,8 +78,7 @@
       "2022-07-24": 131,
       "2022-07-23": 228,
       "2022-07-22": 1515,
-      "2022-07-21": 1236,
-      "2022-07-20": 353
+      "2022-07-21": 1236
     }
   },
   {
@@ -87,18 +86,19 @@
     "url": "https://cloud.astragroup.info",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.astragroup.info.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "91.51%",
     "uptimeYear": "97.89%",
-    "time": 2117,
-    "timeDay": 881,
-    "timeWeek": 683,
-    "timeMonth": 1678,
-    "timeYear": 2129,
+    "time": 2124,
+    "timeDay": 3674,
+    "timeWeek": 1430,
+    "timeMonth": 1799,
+    "timeYear": 2140,
     "dailyMinutesDown": {
+      "2023-07-20": 0,
       "2023-07-16": 93,
       "2023-07-11": 68,
       "2023-07-10": 44,
@@ -128,8 +128,7 @@
       "2022-08-08": 30,
       "2022-07-24": 43,
       "2022-07-23": 76,
-      "2022-07-22": 138,
-      "2022-07-20": 118
+      "2022-07-22": 138
     }
   },
   {
@@ -138,15 +137,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/priv.astragroup.info.ico",
     "slug": "internal-use",
     "status": "up",
-    "uptime": "98.84%",
+    "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.84%",
-    "time": 589,
-    "timeDay": 568,
-    "timeWeek": 433,
-    "timeMonth": 393,
+    "time": 588,
+    "timeDay": 311,
+    "timeWeek": 398,
+    "timeMonth": 386,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2023-06-16": 70,
@@ -161,8 +160,7 @@
       "2022-07-24": 43,
       "2022-07-23": 76,
       "2022-07-22": 1237,
-      "2022-07-21": 1236,
-      "2022-07-20": 117
+      "2022-07-21": 1236
     }
   }
 ]
