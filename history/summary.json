@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 510,
-    "timeDay": 590,
-    "timeWeek": 561,
-    "timeMonth": 446,
-    "timeYear": 450,
+    "timeDay": 598,
+    "timeWeek": 556,
+    "timeMonth": 452,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2023-06-09": 23,
       "2023-06-02": 19,
       "2023-05-15": 747,
-      "2022-08-08": 30,
-      "2022-07-24": 45
+      "2022-08-08": 30
     }
   },
   {
@@ -29,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.astragroup.info.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "96.49%",
+    "uptime": "96.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.32%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "91.34%",
     "uptimeYear": "97.12%",
-    "time": 211,
-    "timeDay": 77,
-    "timeWeek": 183,
-    "timeMonth": 196,
+    "time": 212,
+    "timeDay": 503,
+    "timeWeek": 229,
+    "timeMonth": 207,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2023-07-20": 77,
@@ -72,8 +71,7 @@
       "2022-09-12": 1154,
       "2022-09-11": 1275,
       "2022-09-10": 49,
-      "2022-08-08": 89,
-      "2022-07-24": 131
+      "2022-08-08": 89
     }
   },
   {
@@ -82,16 +80,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.astragroup.info.ico",
     "slug": "cloud",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.32%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "91.34%",
     "uptimeYear": "97.94%",
-    "time": 2113,
-    "timeDay": 861,
-    "timeWeek": 1482,
-    "timeMonth": 1797,
-    "timeYear": 2137,
+    "time": 2110,
+    "timeDay": 873,
+    "timeWeek": 1503,
+    "timeMonth": 1798,
+    "timeYear": 2138,
     "dailyMinutesDown": {
       "2023-07-20": 77,
       "2023-07-16": 93,
@@ -120,8 +118,7 @@
       "2022-09-12": 1154,
       "2022-09-11": 1275,
       "2022-09-10": 49,
-      "2022-08-08": 30,
-      "2022-07-24": 43
+      "2022-08-08": 30
     }
   },
   {
@@ -130,16 +127,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/priv.astragroup.info.ico",
     "slug": "internal-use",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 587,
-    "timeDay": 411,
-    "timeWeek": 451,
-    "timeMonth": 398,
-    "timeYear": 492,
+    "timeDay": 551,
+    "timeWeek": 453,
+    "timeMonth": 400,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2023-06-16": 70,
       "2023-06-09": 55,
@@ -149,8 +146,7 @@
       "2022-10-22": 34,
       "2022-10-19": 1431,
       "2022-10-18": 930,
-      "2022-08-08": 29,
-      "2022-07-24": 43
+      "2022-08-08": 29
     }
   }
 ]
