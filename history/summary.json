@@ -8,13 +8,13 @@
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 496,
-    "timeDay": 160,
-    "timeWeek": 275,
-    "timeMonth": 325,
-    "timeYear": 442,
+    "time": 490,
+    "timeDay": 201,
+    "timeWeek": 254,
+    "timeMonth": 330,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2023-09-21": 137,
       "2023-09-20": 50,
@@ -34,11 +34,11 @@
     "uptime": "96.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.45%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.83%",
     "time": 211,
-    "timeDay": 189,
-    "timeWeek": 187,
+    "timeDay": 247,
+    "timeWeek": 201,
     "timeMonth": 208,
     "timeYear": 215,
     "dailyMinutesDown": {
@@ -70,8 +70,7 @@
       "2023-01-07": 170,
       "2022-12-13": 23,
       "2022-11-25": 30,
-      "2022-11-18": 25,
-      "2022-10-22": 34
+      "2022-11-18": 25
     }
   },
   {
@@ -83,12 +82,12 @@
     "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.29%",
-    "time": 1870,
-    "timeDay": 370,
-    "timeWeek": 550,
-    "timeMonth": 593,
+    "time": 1867,
+    "timeDay": 457,
+    "timeWeek": 528,
+    "timeMonth": 590,
     "timeYear": 2126,
     "dailyMinutesDown": {
       "2023-09-21": 137,
@@ -130,12 +129,12 @@
     "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 517,
-    "timeDay": 141,
-    "timeWeek": 209,
-    "timeMonth": 227,
+    "time": 516,
+    "timeDay": 190,
+    "timeWeek": 210,
+    "timeMonth": 228,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2023-09-21": 137,
@@ -146,8 +145,7 @@
       "2023-06-09": 55,
       "2023-06-02": 17,
       "2023-05-15": 746,
-      "2023-01-07": 58,
-      "2022-10-22": 34
+      "2023-01-07": 58
     }
   }
 ]
