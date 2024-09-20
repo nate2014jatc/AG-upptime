@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 411,
-    "timeDay": 403,
-    "timeWeek": 406,
-    "timeMonth": 413,
+    "timeDay": 240,
+    "timeWeek": 386,
+    "timeMonth": 406,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2024-08-18": 96,
@@ -22,8 +22,7 @@
       "2024-02-10": 36,
       "2024-01-07": 254,
       "2024-01-06": 108,
-      "2023-10-24": 54,
-      "2023-09-21": 137
+      "2023-10-24": 54
     }
   },
   {
@@ -32,14 +31,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.astragroup.info.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "97.09%",
+    "uptime": "97.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "96.56%",
     "time": 236,
-    "timeDay": 272,
-    "timeWeek": 535,
+    "timeDay": 256,
+    "timeWeek": 532,
     "timeMonth": 372,
     "timeYear": 246,
     "dailyMinutesDown": {
@@ -76,8 +75,7 @@
       "2023-11-20": 22,
       "2023-11-01": 311,
       "2023-10-31": 228,
-      "2023-10-24": 159,
-      "2023-09-21": 411
+      "2023-10-24": 159
     }
   },
   {
@@ -91,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "97.93%",
-    "time": 958,
-    "timeDay": 755,
-    "timeWeek": 666,
-    "timeMonth": 672,
+    "time": 957,
+    "timeDay": 427,
+    "timeWeek": 636,
+    "timeMonth": 664,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2024-09-11": 137,
@@ -125,8 +123,7 @@
       "2023-11-28": 33,
       "2023-11-24": 26,
       "2023-11-20": 22,
-      "2023-10-24": 53,
-      "2023-09-21": 137
+      "2023-10-24": 53
     }
   },
   {
@@ -141,10 +138,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
     "time": 409,
-    "timeDay": 464,
-    "timeWeek": 380,
-    "timeMonth": 301,
-    "timeYear": 419,
+    "timeDay": 234,
+    "timeWeek": 363,
+    "timeMonth": 295,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2024-08-18": 95,
       "2024-07-20": 1118,
@@ -159,8 +156,7 @@
       "2024-01-06": 106,
       "2023-11-01": 311,
       "2023-10-31": 228,
-      "2023-10-24": 52,
-      "2023-09-21": 137
+      "2023-10-24": 52
     }
   }
 ]
