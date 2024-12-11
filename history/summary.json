@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 393,
-    "timeDay": 300,
-    "timeWeek": 421,
-    "timeMonth": 371,
+    "timeDay": 500,
+    "timeWeek": 444,
+    "timeMonth": 375,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2024-08-18": 96,
@@ -30,15 +30,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.astragroup.info.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "97.33%",
+    "uptime": "97.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "96.75%",
-    "time": 242,
-    "timeDay": 393,
-    "timeWeek": 301,
-    "timeMonth": 259,
+    "time": 243,
+    "timeDay": 292,
+    "timeWeek": 326,
+    "timeMonth": 265,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2024-12-02": 307,
@@ -68,8 +68,7 @@
       "2023-12-24": 29,
       "2023-12-22": 24,
       "2023-12-15": 292,
-      "2023-12-14": 37,
-      "2023-12-12": 39
+      "2023-12-14": 37
     }
   },
   {
@@ -83,10 +82,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "97.93%",
-    "time": 892,
-    "timeDay": 485,
-    "timeWeek": 556,
-    "timeMonth": 588,
+    "time": 863,
+    "timeDay": 731,
+    "timeWeek": 570,
+    "timeMonth": 594,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2024-12-02": 307,
@@ -113,8 +112,7 @@
       "2023-12-24": 29,
       "2023-12-22": 24,
       "2023-12-15": 292,
-      "2023-12-14": 37,
-      "2023-12-12": 39
+      "2023-12-14": 37
     }
   },
   {
@@ -123,16 +121,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/priv.astragroup.info.ico",
     "slug": "internal-use",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 399,
-    "timeDay": 220,
-    "timeWeek": 227,
-    "timeMonth": 272,
-    "timeYear": 435,
+    "timeDay": 396,
+    "timeWeek": 257,
+    "timeMonth": 273,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2024-08-18": 95,
       "2024-07-20": 1118,
