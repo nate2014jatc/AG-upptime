@@ -10,17 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.94%",
-    "time": 426,
-    "timeDay": 232,
-    "timeWeek": 355,
-    "timeMonth": 998,
-    "timeYear": 437,
+    "time": 425,
+    "timeDay": 234,
+    "timeWeek": 345,
+    "timeMonth": 994,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2025-04-20": 120,
       "2025-02-14": 42,
       "2024-08-18": 96,
-      "2024-06-15": 36,
-      "2024-05-04": 22
+      "2024-06-15": 36
     }
   },
   {
@@ -29,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.astragroup.info.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.00%",
+    "uptime": "98.01%",
     "uptimeDay": "97.15%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "96.99%",
     "time": 258,
-    "timeDay": 323,
-    "timeWeek": 238,
-    "timeMonth": 277,
+    "timeDay": 312,
+    "timeWeek": 265,
+    "timeMonth": 278,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2025-05-03": 41,
@@ -59,8 +58,7 @@
       "2024-06-27": 1033,
       "2024-06-26": 1319,
       "2024-06-17": 61,
-      "2024-06-15": 167,
-      "2024-05-04": 106
+      "2024-06-15": 167
     }
   },
   {
@@ -75,10 +73,10 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "98.07%",
     "time": 785,
-    "timeDay": 1232,
-    "timeWeek": 747,
-    "timeMonth": 1305,
-    "timeYear": 800,
+    "timeDay": 1285,
+    "timeWeek": 712,
+    "timeMonth": 1298,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2025-05-03": 41,
       "2025-04-20": 119,
@@ -96,8 +94,7 @@
       "2024-07-21": 1440,
       "2024-07-01": 23,
       "2024-06-17": 61,
-      "2024-06-15": 60,
-      "2024-05-04": 22
+      "2024-06-15": 60
     }
   },
   {
@@ -112,9 +109,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "98.98%",
     "time": 403,
-    "timeDay": 197,
-    "timeWeek": 291,
-    "timeMonth": 284,
+    "timeDay": 196,
+    "timeWeek": 261,
+    "timeMonth": 278,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2025-04-20": 118,
@@ -125,8 +122,7 @@
       "2024-07-18": 83,
       "2024-06-27": 1033,
       "2024-06-26": 1319,
-      "2024-06-15": 71,
-      "2024-05-04": 62
+      "2024-06-15": 71
     }
   }
 ]
