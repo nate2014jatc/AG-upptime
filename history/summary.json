@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 510,
-    "timeDay": 241,
-    "timeWeek": 610,
+    "timeDay": 381,
+    "timeWeek": 600,
     "timeMonth": 473,
     "timeYear": 552,
     "dailyMinutesDown": {
@@ -20,8 +20,7 @@
       "2025-05-13": 79,
       "2025-05-12": 47,
       "2025-04-20": 120,
-      "2025-02-14": 42,
-      "2024-08-18": 96
+      "2025-02-14": 42
     }
   },
   {
@@ -30,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.astragroup.info.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.52%",
     "uptimeYear": "98.88%",
-    "time": 277,
-    "timeDay": 300,
-    "timeWeek": 423,
-    "timeMonth": 293,
-    "timeYear": 286,
+    "time": 278,
+    "timeDay": 295,
+    "timeWeek": 417,
+    "timeMonth": 298,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2025-07-23": 816,
       "2025-07-22": 1440,
@@ -56,8 +55,7 @@
       "2024-12-02": 307,
       "2024-10-18": 79,
       "2024-09-11": 137,
-      "2024-09-04": 22,
-      "2024-08-18": 287
+      "2024-09-04": 22
     }
   },
   {
@@ -72,9 +70,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.76%",
     "time": 862,
-    "timeDay": 448,
-    "timeWeek": 653,
-    "timeMonth": 836,
+    "timeDay": 615,
+    "timeWeek": 628,
+    "timeMonth": 835,
     "timeYear": 867,
     "dailyMinutesDown": {
       "2025-07-21": 100,
@@ -90,8 +88,7 @@
       "2024-12-02": 307,
       "2024-10-18": 79,
       "2024-09-11": 137,
-      "2024-09-04": 22,
-      "2024-08-18": 96
+      "2024-09-04": 22
     }
   },
   {
@@ -106,10 +103,10 @@
     "uptimeMonth": "91.79%",
     "uptimeYear": "99.21%",
     "time": 469,
-    "timeDay": 200,
-    "timeWeek": 570,
-    "timeMonth": 726,
-    "timeYear": 384,
+    "timeDay": 328,
+    "timeWeek": 560,
+    "timeMonth": 731,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2025-07-23": 816,
       "2025-07-22": 1440,
@@ -118,8 +115,7 @@
       "2025-05-13": 79,
       "2025-05-12": 186,
       "2025-04-20": 118,
-      "2025-02-14": 40,
-      "2024-08-18": 95
+      "2025-02-14": 40
     }
   }
 ]
