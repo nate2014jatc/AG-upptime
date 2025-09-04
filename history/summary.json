@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.91%",
-    "time": 555,
-    "timeDay": 562,
-    "timeWeek": 421,
-    "timeMonth": 1089,
+    "time": 549,
+    "timeDay": 569,
+    "timeWeek": 437,
+    "timeMonth": 1100,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2025-08-23": 147,
@@ -36,10 +36,10 @@
     "uptimeMonth": "95.44%",
     "uptimeYear": "98.56%",
     "time": 283,
-    "timeDay": 399,
-    "timeWeek": 293,
-    "timeMonth": 350,
-    "timeYear": 287,
+    "timeDay": 434,
+    "timeWeek": 315,
+    "timeMonth": 355,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2025-08-28": 1436,
       "2025-08-23": 560,
@@ -57,8 +57,7 @@
       "2025-02-14": 123,
       "2024-12-02": 307,
       "2024-10-18": 79,
-      "2024-09-11": 137,
-      "2024-09-04": 22
+      "2024-09-11": 137
     }
   },
   {
@@ -67,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.astragroup.info.ico",
     "slug": "cloud",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.87%",
     "uptimeMonth": "97.75%",
     "uptimeYear": "99.59%",
     "time": 933,
-    "timeDay": 945,
-    "timeWeek": 1462,
-    "timeMonth": 1571,
-    "timeYear": 948,
+    "timeDay": 901,
+    "timeWeek": 1480,
+    "timeMonth": 1586,
+    "timeYear": 949,
     "dailyMinutesDown": {
       "2025-08-28": 718,
       "2025-08-23": 267,
@@ -92,8 +91,7 @@
       "2025-02-14": 41,
       "2024-12-02": 307,
       "2024-10-18": 79,
-      "2024-09-11": 137,
-      "2024-09-04": 22
+      "2024-09-11": 137
     }
   },
   {
@@ -108,8 +106,8 @@
     "uptimeMonth": "98.03%",
     "uptimeYear": "99.06%",
     "time": 516,
-    "timeDay": 196,
-    "timeWeek": 2226,
+    "timeDay": 194,
+    "timeWeek": 2221,
     "timeMonth": 1012,
     "timeYear": 444,
     "dailyMinutesDown": {
