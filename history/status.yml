@@ -1,7 +1,7 @@
 url: https://status.astragroup.info
-status: up
-code: 200
-responseTime: 208
-lastUpdated: 2025-11-18T12:36:17.158Z
+status: down
+code: 500
+responseTime: 165
+lastUpdated: 2025-11-18T13:29:30.358Z
 startTime: 2022-06-30T19:18:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
